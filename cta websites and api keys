@@ -1,0 +1,19 @@
+1. import scipy.stats as stats
+ this gives you t tests and chi tests
+
+ import warnings
+warnings.filterwarnings('ignore')
+
+do the tests to decide if the data was significantly different
+
+keithellett@gmail.com
+Projectone1
+
+mnrpVaaUpKOs9r7NHikOBfhpH
+k0fnX6F2cA9YL2zdgOhIF1ysnc3cgNYA0-sK
+
+websites
+
+https://data.cityofchicago.org/Transportation/CTA-List-of-CTA-Datasets/pnau-cf66
+https://dev.socrata.com/foundry/data.cityofchicago.org/5neh-572f
+https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f
